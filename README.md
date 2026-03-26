@@ -1,4 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Nikita 👋
+
+Student at Wilhelms-Gymnasium Stuttgart 🇩🇪
+
+Hobby developer interested in software, automation and hardware projects.
+
+## Projects
+
+### Chat bots
+- **UntisTelegramBot** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE). Repository is outdated and archived - v2 version planned 
+- **TelegramSubscriptionBot** – Telegram bot that sends a file after checking channel subscription
+
+###  Minecraft
+- **AccurateProjectilePreview** – NeoForge client-side mod that shows precise projectile trajectory (forked from Projectile Trajectory Preview by maDU59 (MIT License) and edited using ChatGPT, not me)
+
+###  Tools
+- **InventoryManager** – open-source platform for tracking devices, components and materials, currently under development, repository currently empty
+
+### Hardware
+- **ZeroLamp** – ESP32 smart lamp project, forked just for pull-request, because ZeroBone is too busy rn to give me push access and i didn't want to wait.
+
+### Other
+- **birdhouse** – 3D printable birdhouse optimized for small birds
+
+---
+
+## Tech Stack
+
+Languages:
+- JavaScript
+- Java (learning right now)
+- C++ (learning right now)
+
+Technologies:
+- Node.js
+- Telegraf.js (Telegram bots)
+- node-telegram-bot-api (Telegram bots)
+- ESP32 / Embedded / Arduino IDE
+- Git
+
+---
+
+## Contact
+
+- Telegram: https://t.me/siakinnik
+- Modrinth: https://modrinth.com/user/siakinnik
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=siakinnik&show_icons=true)
 
 <!--
 **siakinnik/siakinnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
