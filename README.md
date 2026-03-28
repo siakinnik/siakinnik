@@ -44,7 +44,7 @@ Technologies:
 ## Contact
 
 - Telegram: https://t.me/siakinnik
-- Modrinth: https://modrinth.com/user/siakinnik
+- email: siakin-nikita@siakinnik.com
 
 ---
 
