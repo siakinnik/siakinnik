@@ -1,6 +1,6 @@
 # Hi there, I'm Nikita 👋
 
-Student at Wilhelms-Gymnasium Stuttgart 🇩🇪
+8c student at Wilhelms-Gymnasium Stuttgart 🇩🇪
 
 Hobby developer interested in software, automation and hardware projects.
 
@@ -18,6 +18,7 @@ Hobby developer interested in software, automation and hardware projects.
 
 ### Hardware
 - **ZeroLamp** – ESP32 smart lamp project, forked just for pull-request, because ZeroBone is too busy rn to give me push access and i didn't want to wait.
+- **JWT** - Arduino IDE library for encoding and decoding JSON web tokens for the Arduino and ESP platforms. Forked from https://github.com/chrismoorhouse/ArduinoJWT/ just to rename the class and use in ZeroLamp(probaply will make some small improvements)
 
 ### Other
 - **birdhouse** – 3D printable birdhouse optimized for small birds
