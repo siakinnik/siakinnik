@@ -7,7 +7,8 @@ Hobby developer interested in software, automation and hardware projects.
 ## Projects
 
 ### Chat bots
-- **UntisTelegramBot** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE). Repository is outdated and archived - v2 version planned 
+- **UntisTelegramBot** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE). Repository is **outdated**, **broken** and archived
+- **UntisTelegramBotV2** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE) And has built-in AI assistant.  
 - **TelegramSubscriptionBot** – Telegram bot that sends a file after checking channel subscription
 
 ###  Minecraft
