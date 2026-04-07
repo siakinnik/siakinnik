@@ -10,12 +10,14 @@ Hobby developer interested in software, automation and hardware projects.
 - **UntisTelegramBot** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE). Repository is **outdated**, **broken** and archived
 - **UntisTelegramBotV2** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE) And has built-in AI assistant.  
 - **TelegramSubscriptionBot** – Telegram bot that sends a file after checking channel subscription
+- **FilmFounder Bot** - AI-powered Telegram bot to find movies by description using Google Gemini. Status: Alpha (Work in Progress).
 
 ###  Minecraft
 - **AccurateProjectilePreview** – NeoForge client-side mod that shows precise projectile trajectory (forked from Projectile Trajectory Preview by maDU59 (MIT License) and edited using ChatGPT, not me)
 
 ###  Tools
 - **InventoryManager** – open-source platform for tracking devices, components and materials, currently under development, repository currently empty
+- **sqlite-CLI** - SQLite CLI tool for working with SQLite databases in projects using SQLite. C++ version. Repository empty rn.
 
 ### Hardware
 - **ZeroLamp** – ESP32 smart lamp project, forked just for pull-request, because ZeroBone is too busy rn to give me push access and i didn't want to wait.
