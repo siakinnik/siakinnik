@@ -32,6 +32,7 @@ Hobby developer interested in software, automation and hardware projects.
 
 Languages:
 - JavaScript
+- TypeScript
 - Java (learning right now)
 - C++ (learning right now)
 
@@ -41,6 +42,8 @@ Technologies:
 - node-telegram-bot-api (Telegram bots)
 - ESP32 / Embedded / Arduino IDE
 - Git
+- React.js
+- express.js
 
 ---
 
