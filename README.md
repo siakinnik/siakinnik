@@ -6,8 +6,8 @@ Hobby developer interested in software, automation and hardware projects.
 
 ## Projects
 
-#### [telegraf-hardened](https://github.com/siakinnik/telegraf-hardened)
-**The community-led fork of Telegraf.js.** Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
+### libs/frameworks
+- **[telegraf-hardened](https://github.com/siakinnik/telegraf-hardened)** - Сommunity-led fork of Telegraf.js. Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
 *Status: Active Development / Maintenance*
 
 ### Chat bots
