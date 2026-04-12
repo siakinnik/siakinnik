@@ -6,6 +6,10 @@ Hobby developer interested in software, automation and hardware projects.
 
 ## Projects
 
+#### [telegraf-hardened](https://github.com/siakinnik/telegraf-hardened)
+**The community-led fork of Telegraf.js.** Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
+*Status: Active Development / Maintenance*
+
 ### Chat bots
 - **UntisTelegramBot** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE). Repository is **outdated**, **broken** and archived
 - **UntisTelegramBotV2** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE) And has built-in AI assistant.  
