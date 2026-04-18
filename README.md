@@ -7,8 +7,11 @@ Hobby developer interested in software, automation and hardware projects.
 ## Projects
 
 ### libs/frameworks
-- **[telegraf-hardened](https://github.com/siakinnik/telegraf-hardened)** - Сommunity-led fork of Telegraf.js. Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
-*Status: Active Development / Maintenance*
+- **[telegraf-hardened/telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened)** - Сommunity-led fork of Telegraf.js. Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
+*Status: Active Development / Maintenance / Alpha on npmjs*
+
+- **[telegraf-hardened/types](https://github.com/telegraf-hardened/types)** - TypeScript types for the Telegram Bot API.
+*Status: Active Development / Maintenance / Alpha*
 
 ### Chat bots
 - **[UntisTelegramBotV2](https://github.com/siakinnik/UntisTelegramBotV2)** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE) And has built-in AI assistant.
