@@ -10,7 +10,7 @@ Hobby developer interested in software, automation and hardware projects.
 - **[telegraf-hardened/telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened)** - Сommunity-led fork of Telegraf.js. Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
 *Status: Active Development / Maintenance / Alpha on npmjs*
 
-- **[telegraf-hardened/types](https://github.com/telegraf-hardened/types)** - TypeScript types for the Telegram Bot API.
+- **[telegraf-hardened/types](https://github.com/telegraf-hardened/types)** - TypeScript types for the Telegram Bot API. Made for telegraf-hardened/telegraf-hardened
 *Status: Active Development / Maintenance / Alpha*
 
 ### Chat bots
