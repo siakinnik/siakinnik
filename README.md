@@ -59,6 +59,8 @@ Technologies:
 
 - Telegram: https://t.me/siakinnik
 - email: siakin-nikita@siakinnik.com
+- 微信: siakinnik
+- ВКонтакте: https://vk.ru/siakinnik
 
 ---
 
