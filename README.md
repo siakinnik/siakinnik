@@ -8,7 +8,7 @@ Hobby developer interested in software, automation and hardware projects.
 
 ## libs/frameworks
 
-### [telegraf-hardened organization](https://github.com/telegraf-hardened)
+### [Telegraf Hardened Community](https://github.com/telegraf-hardened)
 
 - **[telegraf-hardened/telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened)** - Сommunity-led fork of Telegraf.js. Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
 *Status: Active Development / Maintenance / Alpha on npmjs*
