@@ -73,8 +73,8 @@ Technologies:
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=siakinnik&show_icons=true)
-
+![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=siakinnik&show_icons=true&theme=calm&role=OWNER,ORGANIZATION_MEMBER)
+![Most used languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=siakinnik&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER)
 <!--
 **siakinnik/siakinnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
