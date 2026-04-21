@@ -8,6 +8,8 @@ Hobby developer interested in software, automation and hardware projects.
 
 ## libs/frameworks
 
+- **[max-bot-api-client-hardened](https://github.com/siakinnik/UntisTelegramBotV2](https://github.com/siakinnik/max-bot-api-client-hardened)** - Hardened fork of Max Bot API with fixed MIT licensing (attribution to Telegraf.js), improved TypeScript typings, and optimized network core.
+
 ### [Telegraf Hardened Community](https://github.com/telegraf-hardened)
 
 - **[telegraf-hardened/telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened)** - Сommunity-led fork of Telegraf.js. Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
