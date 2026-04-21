@@ -59,6 +59,7 @@ Languages:
 Technologies:
 - Node.js
 - Telegraf.js (Telegram bots)
+- [telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened) (Telegram bots | My fork of Telegraf.js)
 - node-telegram-bot-api (Telegram bots)
 - ESP32 / Embedded / Arduino IDE
 - Git
