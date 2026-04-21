@@ -8,14 +8,17 @@ Hobby developer interested in software, automation and hardware projects.
 
 ## libs/frameworks
 
-- **[max-bot-api-client-hardened](https://github.com/siakinnik/UntisTelegramBotV2](https://github.com/siakinnik/max-bot-api-client-hardened)** - Hardened fork of Max Bot API with fixed MIT licensing (attribution to Telegraf.js), improved TypeScript typings, and optimized network core.
+- **[max-bot-api-client-hardened](https://github.com/siakinnik/max-bot-api-client-hardened)** - Hardened fork of Max Bot API with fixed MIT licensing (attribution to Telegraf.js), improved TypeScript typings, and optimized network core.
 
 ### [Telegraf Hardened Community](https://github.com/telegraf-hardened)
 
 - **[telegraf-hardened/telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened)** - Сommunity-led fork of Telegraf.js. Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
 *Status: Active Development / Maintenance / Alpha on npmjs*
+
 - **[telegraf-hardened/types](https://github.com/telegraf-hardened/types)** - TypeScript types for the Telegram Bot API. Made for telegraf-hardened/telegraf-hardened
 *Status: Active Development / Maintenance / Alpha*
+
+- **[telegraf-hardened/fecth](https://github.com/telegraf-hardened/fetch)** - A production-ready, zero-dependency (almost) native fetch wrapper for Node.js 18+ with http(s) and SOCKS proxy
 
 ## 🏮九分 (Ninecent)
 
