@@ -28,7 +28,7 @@ Hobby developer interested in software, automation and hardware projects.
 
 - **[UntisTelegramBotV2](https://github.com/siakinnik/UntisTelegramBotV2)** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE) And has built-in AI assistant.
 - **[FilmFounder Bot](https://github.com/siakinnik/film-founder-bot)** - AI-powered Telegram bot to find movies by description using Google Gemini. Status: Production.
-- **[KahootFlow](https://github.com/siakinnik/KahootFlow)** - A TypeScript Telegram client for Kahoot! sessions. Features real-time game stream monitoring, automated answer lookup(optional), and interactive session management. WIP, repository empty rn.
+- **[KahootFlow](https://github.com/siakinnik/KahootFlow)** - A TypeScript Telegram client for Kahoot! sessions. Features real-time game stream monitoring, automated answer lookup(optional), and interactive session management. WIP.
 - **[TelegramSubscriptionBot](https://github.com/siakinnik/TelegramSubscriptionBot)** – Telegram bot that sends a file after checking channel subscription
 - **[UntisTelegramBot](https://github.com/siakinnik/UntisTelegramBot)** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE). Repository is **outdated**, **broken** and archived
 
