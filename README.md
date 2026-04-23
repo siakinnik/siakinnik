@@ -17,6 +17,7 @@ Hobby developer interested in software, automation and hardware projects.
 *Status: Active Development / Maintenance / Alpha*
 
 - **[telegraf-hardened/fetch](https://github.com/telegraf-hardened/fetch)** - A production-ready, zero-dependency (almost) native fetch wrapper for Node.js 18+ with http(s) and SOCKS proxy
+- [**telegraf-hardened/telegraf-docs**](https://github.com/telegraf-hardened/telegraf-docs) - Documentation for telegraf-hardened- the modern Bot API framework.
 
 ## 🏮九分 (Ninecent)
 
