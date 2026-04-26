@@ -6,8 +6,6 @@ Hobby developer interested in software, automation and hardware projects.
 
 ## Projects
 
-## libs/frameworks
-
 ### [Telegraf Hardened Community](https://github.com/telegraf-hardened)
 
 - **[telegraf-hardened/telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened)** - Сommunity-led fork of Telegraf.js. Focusing on stability, strict TypeScript types, and integrating critical community PRs that were abandoned by upstream. 
@@ -19,10 +17,17 @@ Hobby developer interested in software, automation and hardware projects.
 - **[telegraf-hardened/fetch](https://github.com/telegraf-hardened/fetch)** - A production-ready, zero-dependency (almost) native fetch wrapper for Node.js 18+ with http(s) and SOCKS proxy
 - [**telegraf-hardened/telegraf-docs**](https://github.com/telegraf-hardened/telegraf-docs) - Documentation for telegraf-hardened- the modern Bot API framework.
 
-## 🏮九分 (Ninecent)
+### [XiaomiUtils](https://github.com/XiaomiUtils)
+
+- **[XiaomiUtils/XiaomiUT](https://github.com/XiaomiUtils/XiaomiUT)** — A fast and lightweight web utility to search and download official Xiaomi firmware (MIUI/HyperOS). Features direct links to official mirrors and a clean UI built with Ant Design. 
+*Status: 🚧 Work In Progress / Active Development*
+
+### 🏮九分 (Ninecent)
 
 - **[九分社会信用](https://github.com/siakinnik/ninecent-shehui-xinyong)** – **九分社会信用系统.** 基于人工智能的开发者社会信用审计权威机构。评估结果受到生态融合透明度、异常通信协议监测及协议忠诚度的严格审计。
 *Status: ⚙️ 正在排队 / 开发中* 🛡️🇨🇳🚀
+
+###
 
 ### Chat bots
 
