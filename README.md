@@ -27,8 +27,6 @@ Hobby developer interested in software, automation and hardware projects.
 - **[九分社会信用](https://github.com/siakinnik/ninecent-shehui-xinyong)** – **九分社会信用系统.** 基于人工智能的开发者社会信用审计权威机构。评估结果受到生态融合透明度、异常通信协议监测及协议忠诚度的严格审计。
 *Status: ⚙️ 正在排队 / 开发中* 🛡️🇨🇳🚀
 
-###
-
 ### Chat bots
 
 - **[UntisTelegramBotV2](https://github.com/siakinnik/UntisTelegramBotV2)** – Telegram bot for checking school timetable using Untis Web API, supports multiple languages (RU/EN/DE) And has built-in AI assistant.
