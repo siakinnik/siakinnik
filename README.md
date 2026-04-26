@@ -19,7 +19,7 @@ Hobby developer interested in software, automation and hardware projects.
 
 ### [XiaomiUtils](https://github.com/XiaomiUtils)
 
-- **[XiaomiUtils/XiaomiUT](https://github.com/XiaomiUtils/XiaomiUT)** — A fast and lightweight web utility to search and download official Xiaomi firmware (MIUI/HyperOS). Features direct links to official mirrors and a clean UI built with Ant Design. 
+- **[XiaomiUtils/XiaomiUT](https://github.com/XiaomiUtils/XiaomiUT)** — A fast web utility to search and download official Xiaomi firmware (MIUI/HyperOS). Features direct links to official mirrors
 *Status: 🚧 Work In Progress / Active Development*
 
 ### 🏮九分 (Ninecent)
