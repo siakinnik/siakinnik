@@ -12,7 +12,7 @@ Hobby developer interested in software, automation and hardware projects.
 *Status: Production/v5.0.0 on npmjs*
 
 - **[telegraf-hardened/types](https://github.com/telegraf-hardened/types)** - TypeScript types for the Telegram Bot API. Made for telegraf-hardened/telegraf-hardened
-*Status: Active Development / Maintenance / Alpha*
+*Status: Production/Full API 7.8 support*
 
 - **[telegraf-hardened/fetch](https://github.com/telegraf-hardened/fetch)** - A production-ready, zero-dependency (almost) native fetch wrapper for Node.js 18+ with http(s) and SOCKS proxy
 - [**telegraf-hardened/telegraf-docs**](https://github.com/telegraf-hardened/telegraf-docs) - Documentation for telegraf-hardened- the modern Bot API framework.
