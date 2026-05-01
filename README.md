@@ -57,9 +57,24 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 
 ## Tech Stack
 
-- **Languages:** TypeScript, JavaScript, C++ (Learning), Java (Learning).
-- **Frameworks:** Node.js, React.js, Express.js, Telegraf.js.
-- **Infrastructure:** S3 API, WebSockets, Zstd/LZ4, MTProto, ESP32/Embedded.
+### Languages:
+
+- JavaScript
+- TypeScript
+- Java (learning right now)
+- C++ (learning right now)
+- Technologies:
+
+### Technologies:
+
+- Node.js
+- Telegraf.js (Telegram bots)
+- telegraf-hardened (Telegram bots | My fork of Telegraf.js)
+- node-telegram-bot-api (Telegram bots)
+- ESP32 / Embedded / Arduino IDE
+- Git
+- React.js
+- express.js
 
 ---
 
