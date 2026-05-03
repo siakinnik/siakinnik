@@ -43,6 +43,7 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 - **[UntisTelegramBot](https://github.com/siakinnik/UntisTelegramBot)** (Archived) - The original legacy version of the Untis bot.
 
 ### Hardware & IoT
+- **[roomba-websocket](https://github.com/siakinnik/roomba-websocket)** - Arduino firmware for ESP8266 to control iRobot Roomba e5 via WebSockets. Features a hybrid Serial architecture.
 - **[ZeroLamp](https://github.com/siakinnik/ZeroLamp)** - ESP32 Smart Lamp. Implemented a massive connectivity refactor: WebSockets, JWT/OTP auth, mDNS, and a Node.js terminal controller.
 - **[JWT](https://github.com/siakinnik/JWT)** - Optimized Arduino library for encoding/decoding JSON Web Tokens for ESP/Arduino platforms.
 
