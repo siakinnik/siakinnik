@@ -5,6 +5,7 @@
 Hobby developer interested in software architecture, automation, and hardware-software integration. Lead maintainer of several specialized open-source organizations.
 
 Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-assistant)
+
 ---
 
 ## Organizations
