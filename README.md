@@ -10,7 +10,7 @@ Hobby developer interested in software architecture, automation, and hardware-so
 
 ### [Telegraf Hardened](https://github.com/telegraf-hardened)
 Community-led ecosystem for stable Telegram Bot development.
-- **[telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened)** - Focus on stability, strict types, and production-ready features. *Status: v5.0.0 on npm*
+- **[telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened)** - Focus on stability, strict types, and production-ready features. *Status: v5.1.0 on npm*
 - **[types](https://github.com/telegraf-hardened/types)** - TypeScript types for the Telegram Bot API 7.8+.
 - **[fetch](https://github.com/telegraf-hardened/fetch)** - Zero-dependency native fetch wrapper for Node.js 18+ with proxy support.
 - **[telegraf-docs](https://github.com/telegraf-hardened/telegraf-docs)** - Modern documentation for the framework.
