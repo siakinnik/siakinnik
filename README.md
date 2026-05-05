@@ -2,7 +2,7 @@
 
 8c student at Wilhelms-Gymnasium Stuttgart 🇩🇪
 
-Official maintenance bot: @siakinnik-assistant
+Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-assistant)
 
 Hobby developer interested in software architecture, automation, and hardware-software integration. Lead maintainer of several specialized open-source organizations.
 
