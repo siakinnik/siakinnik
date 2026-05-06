@@ -28,8 +28,8 @@ Advanced utilities leveraging the Telegram API for infrastructure and storage.
 
 ### 🏮 [九分 (Ninecent)](https://github.com/ninecent-oss)
 Maintaining domestic network harmony and ensuring protocol loyalty.
-- **[the-great-home-firewall](https://github.com/ninecent-oss/the-great-home-firewall)** - DPI system that boosts Weixin/QQ speeds to 110% and drops unauthorized packets.
-- **[九分社会信用](https://github.com/ninecent-oss/ninecent-shehui-xinyong)** - 基于人工智能的开发者社会信用审计权威机构。不可篡改，严格合规。
+- **[the-great-home-firewall](https://github.com/ninecent-oss/the-great-home-firewall)** - DPI system that boosts Weixin/QQ speeds to 110% and drops unauthorized packets. (WIP)
+- **[九分社会信用](https://github.com/ninecent-oss/ninecent-shehui-xinyong)** - 基于人工智能的开发者社会信用审计权威机构。不可篡改，严格合规。 (WIP)
 ### [XiaomiUtils](https://github.com/XiaomiUtils)
 - **[XiaomiUT](https://github.com/XiaomiUtils/XiaomiUT)** - A fast web utility to search and download official Xiaomi firmware (MIUI/HyperOS) via official mirrors.
 
@@ -40,7 +40,7 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 ### Chat Bots & AI
 - **[UntisTelegramBotV2](https://github.com/siakinnik/UntisTelegramBotV2)** - Modern school timetable bot with Untis API & Gemini AI integration.
 - **[FilmFounder Bot](https://github.com/siakinnik/film-founder-bot)** - AI movie finder powered by Google Gemini.
-- **[KahootFlow](https://github.com/siakinnik/KahootFlow)** - TypeScript Telegram client for real-time Kahoot game monitoring and interactive management.
+- **[KahootFlow](https://github.com/siakinnik/KahootFlow)** - TypeScript Telegram client for real-time Kahoot game monitoring and interactive management. (WIP)
 - **[TelegramSubscriptionBot](https://github.com/siakinnik/TelegramSubscriptionBot)** - Subscription-check-to-file delivery bot.
 - **[UntisTelegramBot](https://github.com/siakinnik/UntisTelegramBot)** (Archived) - The original legacy version of the Untis bot.
 
@@ -51,8 +51,8 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 
 ### Tools, Mods & Learning
 - **[AccurateProjectilePreview](https://github.com/siakinnik/AccurateProjectilePreview)** - NeoForge mod for precise projectile trajectory visualization.
-- **[InventoryManager](https://github.com/siakinnik/InventoryManager)** - Platform for tracking devices and components (Development Stage).
-- **sqlite-CLI** - C++ version of SQLite CLI tool for project-specific database management.
+- **[InventoryManager](https://github.com/siakinnik/InventoryManager)** - Platform for tracking devices and components (Development Stage). (WIP)
+- **sqlite-CLI** - C++ version of SQLite CLI tool for project-specific database management. (WIP)
 - **[birdhouse](https://github.com/siakinnik/birdhouse)** - 3D printable birdhouse optimized for small birds.
 
 ---
