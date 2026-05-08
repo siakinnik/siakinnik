@@ -17,9 +17,9 @@ Community-led ecosystem for stable Telegram Bot development.
 - **[fetch](https://github.com/telegraf-hardened/fetch)** - Zero-dependency native fetch wrapper for Node.js 18+ with proxy support.
 - **[telegraf-docs](https://github.com/telegraf-hardened/telegraf-docs)** - Modern documentation for the framework.
 
-### [CraftUtils](https://github.com/CraftUtlis)
+### [CraftUtils](https://github.com/CraftUtils)
 Bridging the gap between Minecraft editions and simplifying server management.
-- **[LegacyCrossPlay](https://github.com/CraftUtlis/LegacyCrossPlay)** - Specialized proxy for connecting Minecraft Legacy Console Edition to modern Java servers.
+- **[LegacyCrossPlay](https://github.com/CraftUtils/LegacyCrossPlay)** - Specialized proxy for connecting Minecraft Legacy Console Edition to modern Java servers.
 - **Minecraft Server Dashboard** (Planned) - React-based UI for effortless server core management, plugin installation, and visual config editing.
 
 ### [TgUtils-OSS](https://github.com/TgUtils-OSS)
@@ -81,6 +81,10 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 ---
 
 ## Contact
+
+Operator (Impressum) According to German law (§ 5 DDG):
+Nikita Siakin
+Epplestraße 28 70597 Stuttgart Deutschland
 
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
 - **Email:** syakin.nikita@siakinnik.com
