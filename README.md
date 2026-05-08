@@ -84,6 +84,7 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
 - **Email:** syakin.nikita@siakinnik.com
+- **Phone(In verification / System setup)** `+49 15678 331 999`
 - **微信 (Weixin):** `siakinnik` (Preferred for Ninecent inquiries 🏮)
 - **Вконтакте(VK):** [siakinnik](https://vk.ru/siakinnik)
 - **Session**: `05081a6d181c38e36178b44b7c12be2f0d814122d114929389c01c9dc44687f52c`
