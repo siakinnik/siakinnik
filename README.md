@@ -87,7 +87,7 @@ Nikita Siakin
 Epplestraße 28 70597 Stuttgart Deutschland
 
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
-- **Email:** syakin.nikita@siakinnik.com
+- **Email:** siakin.nikita@siakinnik.com
 - **Phone(In verification / System setup)** `+49 15678 331 999`
 - **微信 (Weixin):** `siakinnik` (Preferred for Ninecent inquiries 🏮)
 - **Вконтакте(VK):** [siakinnik](https://vk.ru/siakinnik)
