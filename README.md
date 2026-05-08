@@ -93,6 +93,9 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=siakinnik&show_icons=true&theme=calm&role=OWNER,ORGANIZATION_MEMBER)
+
+---
+
 ![Most used languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=siakinnik&langs_count=10&theme=calm&role=OWNER,ORGANIZATION_MEMBER)
 <!--
 **siakinnik/siakinnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
