@@ -83,7 +83,9 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 ## Contact
 
 Operator (Impressum) According to German law (§ 5 DDG):
+
 Nikita Siakin
+
 70597 Stuttgart Deutschland
 
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
