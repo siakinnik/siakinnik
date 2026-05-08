@@ -82,7 +82,7 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 
 ## Contact
 
-Operator (Impressum) According to German law (§ 5 DDG):
+Operator:
 
 Nikita Siakin
 
