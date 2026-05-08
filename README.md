@@ -84,7 +84,7 @@ Maintaining domestic network harmony and ensuring protocol loyalty.
 
 Operator (Impressum) According to German law (§ 5 DDG):
 Nikita Siakin
-Epplestraße 28 70597 Stuttgart Deutschland
+70597 Stuttgart Deutschland
 
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
 - **Email:** siakin.nikita@siakinnik.com
