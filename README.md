@@ -90,7 +90,7 @@ Nikita Siakin
 
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
 - **Email:** siakin.nikita@siakinnik.com
-- **Phone** `+49 15678 331 999`
+- **Phone(no sms, only calls)** `+49 15678 331 999`
 - **微信 (Weixin):** `siakinnik` (Preferred for Ninecent inquiries 🏮)
 - **Вконтакте(VK):** [siakinnik](https://vk.ru/siakinnik)
 - **Session**: `05081a6d181c38e36178b44b7c12be2f0d814122d114929389c01c9dc44687f52c`
