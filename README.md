@@ -22,11 +22,7 @@ Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-as
 
 ## Contact
 
-Operator:
-
-Nikita Siakin
-
-70597 Stuttgart Deutschland
+Operator(Impressum): [impressum.md](./impressum.md)
 
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
 - **Email:** siakin.nikita@siakinnik.com
