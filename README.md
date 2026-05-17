@@ -18,13 +18,13 @@ Community-led ecosystem for stable Telegram Bot development. Main repos:
 Bridging the gap between Minecraft editions and simplifying server management. Main repos:
 - **[LegacyCrossPlay](https://github.com/CraftUtils/LegacyCrossPlay)** - Specialized proxy for connecting Minecraft Legacy Console Edition to modern Java servers.
 
-### [TgUtils-OSS](https://github.com/TgUtils-OSS)
+<!-- ### [TgUtils-OSS](https://github.com/TgUtils-OSS)
 Advanced utilities leveraging the Telegram API for infrastructure and storage. Main repos:
 - **[T-store](https://github.com/TgUtils-OSS/T-store)** - High-performance S3-compatible storage engine with Zstd/LZ4 compression and client-side encryption, using Telegram as a backend.
 
 ### 🏮 [九分 (Ninecent)](https://github.com/ninecent-oss)
 Maintaining domestic network harmony and ensuring protocol loyalty. Main repos:
-- **[九分社会信用](https://github.com/ninecent-oss/ninecent-shehui-xinyong)** - 基于人工智能的开发者社会信用审计权威机构。不可篡改，严格合规。 (WIP)
+- **[九分社会信用](https://github.com/ninecent-oss/ninecent-shehui-xinyong)** - 基于人工智能的开发者社会信用审计权威机构。不可篡改，严格合规。 (WIP) -->
 
 ### [XiaomiUtils](https://github.com/XiaomiUtils)
 Main repos:
