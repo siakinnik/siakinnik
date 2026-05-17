@@ -76,6 +76,17 @@ Nikita Siakin
 
 ---
 
+## Social
+
+- [X(Twitter)](https://x.com/siakinnik)
+- [Modrinth](https://modrinth.com/user/siakinnik)
+- [Reddit](https://reddit.com/u/No-Orange7011)
+- [LinkedIn](https://www.linkedin.com/in/nikita-s-b22b613b0/)
+- [YouTube](https://youtube.com/@siakinnik)
+- [ВКонтакте](http://vk.ru/siakinnik)
+
+---
+
 ### 🏮 Support & Infrastructure
 I develop and maintain open-source projects for free. If you find my work useful and want to support server costs or hardware experiments, you can send a voluntary gift (**Schenkung**) here:
 
