@@ -8,54 +8,15 @@ Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-as
 
 ---
 
-## Organizations
-
-### [Telegraf Hardened](https://github.com/telegraf-hardened)
-Community-led ecosystem for stable Telegram Bot development. Main repos:
-- **[telegraf-hardened](https://github.com/telegraf-hardened/telegraf-hardened)** - Focus on stability, strict types, and production-ready features. *Status: v6.0.0 on npm*
-
-### [CraftUtils](https://github.com/CraftUtils)
-Bridging the gap between Minecraft editions and simplifying server management. Main repos:
-- **[LegacyCrossPlay](https://github.com/CraftUtils/LegacyCrossPlay)** - Specialized proxy for connecting Minecraft Legacy Console Edition to modern Java servers.
-
-<!-- ### [TgUtils-OSS](https://github.com/TgUtils-OSS)
-Advanced utilities leveraging the Telegram API for infrastructure and storage. Main repos:
-- **[T-store](https://github.com/TgUtils-OSS/T-store)** - High-performance S3-compatible storage engine with Zstd/LZ4 compression and client-side encryption, using Telegram as a backend.
-
-### 🏮 [九分 (Ninecent)](https://github.com/ninecent-oss)
-Maintaining domestic network harmony and ensuring protocol loyalty. Main repos:
-- **[九分社会信用](https://github.com/ninecent-oss/ninecent-shehui-xinyong)** - 基于人工智能的开发者社会信用审计权威机构。不可篡改，严格合规。 (WIP) -->
-
-### [XiaomiUtils](https://github.com/XiaomiUtils)
-Main repos:
-- **[XiaomiUT](https://github.com/XiaomiUtils/XiaomiUT)** - A fast web utility to search and download official Xiaomi firmware (MIUI/HyperOS) via official mirrors.
-
----
-
-## Other projects
-
-### Chat Bots & AI
-- **[UntisTelegramBotV2](https://github.com/siakinnik/UntisTelegramBotV2)** - Modern school timetable bot with Untis API & Gemini AI integration.
-- **[FilmFounder Bot](https://github.com/siakinnik/film-founder-bot)** - AI movie finder powered by Google Gemini.
-- **[KahootFlow](https://github.com/siakinnik/KahootFlow)** - TypeScript Telegram client for real-time Kahoot game monitoring and interactive management. (WIP)
-- **etc**
-
-### Hardware & IoT
-- **[roomba-websocket](https://github.com/siakinnik/roomba-websocket)** - Arduino firmware for ESP8266 to control iRobot Roomba e5 via WebSockets. Features a hybrid Serial architecture.
-- **[ZeroLamp](https://github.com/siakinnik/ZeroLamp)** - ESP32 Smart Lamp. Implemented a massive connectivity refactor: WebSockets, JWT/OTP auth, mDNS, and a Node.js terminal controller.
-- **[JWT](https://github.com/siakinnik/JWT)** - Optimized Arduino library for encoding/decoding JSON Web Tokens for ESP/Arduino platforms.
-
-### Tools, Mods & Learning
-- **[AccurateProjectilePreview](https://github.com/siakinnik/AccurateProjectilePreview)** - NeoForge mod for precise projectile trajectory visualization.
-- **[birdhouse](https://github.com/siakinnik/birdhouse)** - 3D printable birdhouse optimized for small birds.
-- **etc**
-
----
-
 ## Tech Stack
 
 ### Languages: JS, TS, Java(learning right now), C++(learning right now)
 ### Technologies: Node.js, Telegraf.js (Telegram bots), telegraf-hardened (Telegram bots | My fork of Telegraf.js), node-telegram-bot-api (Telegram bots), ESP32 / Embedded / Arduino IDE, Git, React.js, express.js, crypto, etc...
+
+---
+
+## Links
+[Film Founder telegram bot](https://t.me/FilmFounderAI_bot)
 
 ---
 
