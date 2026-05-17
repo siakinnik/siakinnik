@@ -79,6 +79,7 @@ Nikita Siakin
 ## Social
 
 - [X(Twitter)](https://x.com/siakinnik)
+- [Mastodon](https://mastodon.social/@siakinnik)
 - [Modrinth](https://modrinth.com/user/siakinnik)
 - [Reddit](https://reddit.com/u/No-Orange7011)
 - [LinkedIn](https://www.linkedin.com/in/nikita-s-b22b613b0/)
