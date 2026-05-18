@@ -20,28 +20,22 @@ Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-as
 
 ---
 
-## Contact
+## Contact & Social
 
 Operator(Impressum): [impressum.md](./impressum.md)
 
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
 - **Email:** siakin.nikita@siakinnik.com
 - **Phone(no sms, only calls)** `+49 15678 331 999`
-- **微信 (Weixin):** `siakinnik` (Preferred for Ninecent inquiries 🏮)
-- **Вконтакте(VK):** [siakinnik](https://vk.ru/siakinnik)
-- **Session**: `05081a6d181c38e36178b44b7c12be2f0d814122d114929389c01c9dc44687f52c`
-
----
-
-## Social
-
 - [X(Twitter)](https://x.com/siakinnik)
 - [Mastodon](https://mastodon.social/@siakinnik)
 - [Modrinth](https://modrinth.com/user/siakinnik)
 - [Reddit](https://reddit.com/u/No-Orange7011)
 - [LinkedIn](https://www.linkedin.com/in/nikita-s-b22b613b0/)
 - [YouTube](https://youtube.com/@siakinnik)
-- [ВКонтакте](http://vk.ru/siakinnik)
+- **微信 (Weixin):** `siakinnik` (Preferred for Ninecent inquiries 🏮)
+- **Вконтакте(VK):** [siakinnik](https://vk.ru/siakinnik)
+- **Session**: `05081a6d181c38e36178b44b7c12be2f0d814122d114929389c01c9dc44687f52c`
 
 ---
 
