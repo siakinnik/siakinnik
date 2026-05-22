@@ -40,8 +40,10 @@ Operator(Impressum): [impressum.md](./impressum.md)
 ---
 
 ### 🏮 Support & Infrastructure
+I develop and maintain open-source projects for free. If you find my work useful and want to support server costs or hardware experiments, you can send a voluntary gift (**Schenkung**) here: [donate.md](./donate.md)
 
-[donate.md](./donate.md)
+> [!NOTE]
+> All contributions are strictly voluntary gifts. No commercial services, advantages, or private support are provided in return. Stay decentralized.
 
 ---
 
