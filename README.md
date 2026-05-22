@@ -49,13 +49,7 @@ I develop and maintain open-source projects for free. If you find my work useful
 
 ## GitHub Stats
 
-<table border="0">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=siakinnik&show_icons=true&theme=calm&role=OWNER,ORGANIZATION_MEMBER" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=siakinnik&langs_count=6&theme=calm&layout=compact&role=OWNER,ORGANIZATION_MEMBER" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=siakinnik&show_icons=true&theme=calm&role=OWNER,ORGANIZATION_MEMBER" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=siakinnik&langs_count=6&theme=calm&layout=compact&role=OWNER,ORGANIZATION_MEMBER" />
+</div>
