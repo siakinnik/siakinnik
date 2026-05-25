@@ -1,36 +1,39 @@
 # Impressum / Legal Disclosure / Правовая информация
 
-## Deutsch (Verpflichtend nach § 5 DDG)
-
-**Diensteanbieter:**
-Nikita Siakin (minderjährig, unter gesetzlicher Vertretung durch die Eltern / gesetzlichen Vertreter)
-Epplestraße 28  
-70597 Stuttgart  
-Deutschland  
-
-**Kontaktmöglichkeiten:**
-E-Mail: siakin.nikita@siakinnik.com  
-Telefon: +49 15678 331 999  
-
-**Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**
-Nikita Siakin  
-Epplestraße 28  
-70597 Stuttgart  
-Deutschland  
-
-**EU-Streitschlichtung**:
-
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
-Hinweis: Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+Sprache / Language / Язык: [Deutsch](#deutsch) | [English](#english) | [Русский](#русский)
 
 ---
 
-## English (General Information)
+## Deutsch
 
-According to German law (§ 5 DDG):
+**Diensteanbieter (gemäß § 5 DDG):**
+Nikita Siakin  
+Minderjährig, gesetzlich vertreten durch die Eltern: Svetlana Siakina und Said Siakin  
+Epplestraße 28  
+70597 Stuttgart  
+Deutschland  
 
-**Operator:**
-Nikita Siakin (minor, legally represented by his parents / legal guardians)
+**Kontakt:**
+E-Mail: siakin.nikita@siakinnik.com  
+Telefon: +49 15678 331 999  
+
+**Verantwortlich für den Inhalt (nach § 18 Abs. 2 MStV):**
+Nikita Siakin (gesetzlich vertreten durch die oben genannten Eltern)  
+Epplestraße 28  
+70597 Stuttgart  
+Deutschland  
+
+**EU-Streitschlichtung:**
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).  
+*Hinweis: Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.*
+
+---
+
+## English
+
+**Operator (according to German law, § 5 DDG):**
+Nikita Siakin  
+Minor, legally represented by his parents: Svetlana Siakina and Said Siakin  
 Epplestraße 28  
 70597 Stuttgart  
 Germany  
@@ -39,40 +42,37 @@ Germany
 E-Mail: siakin.nikita@siakinnik.com  
 Phone: +49 15678 331 999  
 
-**Represented by (§ 18 Abs. 2 MStV):**
-Nikita Siakin 
+**Responsible for Content (§ 18 Abs. 2 MStV):**
+Nikita Siakin (legally represented by his parents as named above)  
 Epplestraße 28  
 70597 Stuttgart  
 Germany  
 
-**EU Dispute Resolution**:
-
-The European Commission provides a platform for online dispute resolution (ODR): [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
-Note: We are neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration board.
+**EU Dispute Resolution:**
+The European Commission provides a platform for online dispute resolution (ODR): [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).  
+*Note: We are neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration board.*
 
 ---
 
-## Русский (Информация о владельце)
+## Русский
 
-В соответствии с законодательством Германии (§ 5 DDG):
-
-**Владелец ресурса / Провайдер услуг:**
-Никита Сякин (Nikita Siakin) (несовершеннолетний, под законным представительством родителей / законных представителей)
+**Владелец ресурса (в соответствии с § 5 DDG Германии):**
+Никита Сякин (Nikita Siakin)  
+Несовершеннолетний, законными представителями являются родители: Светлана Сякина (Svetlana Siakina) и Саид Сякин (Said Siakin)  
 Epplestraße 28  
 70597 Stuttgart  
 Германия (Deutschland)  
 
-**Контактные данные:**
+**Контакты:**
 E-Mail: siakin.nikita@siakinnik.com  
 Телефон: +49 15678 331 999  
 
-**Ответственный за содержание в соответствии с § 18 Abs. 2 MStV:**
-Никита Сякин (Nikita Siakin) 
+**Ответственный за содержание (в соответствии с § 18 Abs. 2 MStV):**
+Никита Сякин (под законным представительством родителей, указанных выше)  
 Epplestraße 28  
 70597 Stuttgart  
-Германия (Deutschland)
+Германия (Deutschland)  
 
-**Разрешение споров в ЕС**:
-
-Европейская комиссия предоставляет платформу для онлайн-урегулирования споров (ODR): [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
-Примечание: Мы не обязаны и не намерены участвовать в процедурах урегулирования споров в потребительском арбитраже.
+**Разрешение споров в ЕС:**
+Европейская комиссия предоставляет платформу для онлайн-урегулирования споров (ODR): [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).  
+*Примечание: Мы не обязаны и не намерены участвовать в процедурах урегулирования споров в потребительском арбитраже.*
