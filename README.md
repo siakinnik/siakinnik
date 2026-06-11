@@ -8,10 +8,12 @@ Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-as
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack & Tools
 
-### Languages: JS, TS, Java(learning right now), C++(learning right now)
-### Technologies: Node.js, Telegraf.js (Telegram bots), telegraf-hardened (Telegram bots | My fork of Telegraf.js), node-telegram-bot-api (Telegram bots), ESP32 / Embedded / Arduino IDE, Git, React.js, express.js, crypto, etc...
+* **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) (Learning) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) (Learning)
+* **Backend & Bots:** Node.js, Express, Telegraf.js, node-telegram-bot-api
+* **Hardware / IoT:** ESP32 / ESP8266, Arduino IDE, WebSockets
+* **Databases & AI:** SQLite, Google Gemini API
 
 ---
 
