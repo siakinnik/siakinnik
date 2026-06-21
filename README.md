@@ -58,4 +58,4 @@ I develop and maintain open-source projects for free. If you find my work useful
   <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=siakinnik&langs_count=6&theme=calm&layout=compact&role=OWNER,ORGANIZATION_MEMBER" />
 </div>
 
-I use [Tierhive](https://tierhive.com/r/1EB5807FB065)
+[Checkout TierHive for your Hourly VPS](https://tierhive.com/r/1EB5807FB065)
