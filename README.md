@@ -21,20 +21,20 @@ Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-as
 
 Operator(Impressum): [impressum.md](./impressum.md)
 
+- **Operator (Impressum):** [impressum.md](./impressum.md)
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
 - **Email:** siakin.nikita@siakinnik.com
-- **Phone(no sms, only calls)** `+49 15678 331 999`
-- [X(Twitter)](https://x.com/siakinnik)
-- [Mastodon](https://mastodon.social/@siakinnik)
-- [Modrinth](https://modrinth.com/user/siakinnik)
-- [Curseforge](https://www.curseforge.com/members/siakinnik/)
-- [Thingiverse](https://www.thingiverse.com/siakinnik)
-- [Reddit](https://reddit.com/u/No-Orange7011)
-- [LinkedIn](https://www.linkedin.com/in/nikita-s-b22b613b0/)
-- [YouTube](https://youtube.com/@siakinnik)
-- **微信 (Weixin):** `siakinnik` (Preferred for Ninecent inquiries 🏮)
-- **Вконтакте(VK):** [siakinnik](https://vk.ru/siakinnik)
-- **Session**: `05081a6d181c38e36178b44b7c12be2f0d814122d114929389c01c9dc44687f52c`
+- **X (Twitter):** [@siakinnik](https://x.com/siakinnik)
+- **Mastodon:** [@siakinnik](https://mastodon.social/@siakinnik)
+- **Modrinth:** [siakinnik](https://modrinth.com/user/siakinnik)
+- **CurseForge:** [siakinnik](https://www.curseforge.com/members/siakinnik/)
+- **Thingiverse:** [siakinnik](https://www.thingiverse.com/siakinnik)
+- **Reddit:** [u/No-Orange7011](https://reddit.com/u/No-Orange7011)
+- **LinkedIn:** [Nikita S.](https://www.linkedin.com/in/nikita-s-b22b613b0/)
+- **YouTube:** [@siakinnik](https://youtube.com/@siakinnik)
+- **微信:** `siakinnik` *(Preferred for Ninecent inquiries 🏮)*
+- **VK:** [siakinnik](https://vk.ru/siakinnik)
+- **Session ID:** `05081a6d181c38e36178b44b7c12be2f0d814122d114929389c01c9dc44687f52c`
 
 ---
 
