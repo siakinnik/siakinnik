@@ -17,11 +17,6 @@ Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-as
 
 ---
 
-## Links
-[Film Finder telegram bot](https://t.me/FilmFounderAI_bot)
-
----
-
 ## Contact & Social
 
 Operator(Impressum): [impressum.md](./impressum.md)
