@@ -21,7 +21,6 @@ Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-as
 
 Operator(Impressum): [impressum.md](./impressum.md)
 
-- **Operator (Impressum):** [impressum.md](./impressum.md)
 - **Telegram:** [@siakinnik](https://t.me/siakinnik)
 - **Email:** siakin.nikita@siakinnik.com
 - **X (Twitter):** [@siakinnik](https://x.com/siakinnik)
