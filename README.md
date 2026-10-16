@@ -2,9 +2,9 @@
 
 8c student at Wilhelms-Gymnasium Stuttgart 🇩🇪
 
-14 y.o hobby developer interested in software architecture, automation, and hardware-software integration. Lead maintainer of several specialized open-source organizations.
+14 y.o hobby developer interested in software architecture, automation, and hardware-software integration. Maintainer of @telegraf-hardened.
 
-Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-assistant)
+<!-- Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-assistant) -->
 
 ---
 
@@ -33,7 +33,6 @@ Operator(Impressum): [impressum.md](./impressum.md)
 - **YouTube:** [@siakinnik](https://youtube.com/@siakinnik)
 - **微信:** `siakinnik` *(Preferred for Ninecent inquiries 🏮)*
 - **VK:** [siakinnik](https://vk.ru/siakinnik)
-- **Session ID:** `05081a6d181c38e36178b44b7c12be2f0d814122d114929389c01c9dc44687f52c`
 
 ---
 
