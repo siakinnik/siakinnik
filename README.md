@@ -1,8 +1,8 @@
 # Hi there, I'm Nikita 👋
 
-8c student at Wilhelms-Gymnasium Stuttgart 🇩🇪
+9c student at Wilhelms-Gymnasium Stuttgart 🇩🇪
 
-14 y.o hobby developer interested in software architecture, automation, and hardware-software integration. Maintainer of [@telegraf-hardened](https://github.com/telegraf-hardened).
+15 y.o hobby developer interested in software architecture, automation, and hardware-software integration. Maintainer of [@telegraf-hardened](https://github.com/telegraf-hardened).
 
 <!-- Official maintenance bot: [@siakinnik-assistant](https://github.com/siakinnik-assistant) -->
 
